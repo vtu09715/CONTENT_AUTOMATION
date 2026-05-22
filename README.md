@@ -54,7 +54,15 @@
 
 <img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/77888445-a7c8-419f-bfb7-fc24899bcec6" />
 
+<img width="1916" height="1029" alt="image" src="https://github.com/user-attachments/assets/0b4c468d-8efb-4f54-93d3-023b26e4d52c" />
 
+# test chạy đăng bài 
+
+<img width="1242" height="2688" alt="image" src="https://github.com/user-attachments/assets/df87aff9-9115-49b7-ad99-051dd64d42c8" />
+# kết quả ok
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09072b4d-e097-40ba-8013-6b8a1382af76" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc897715-765e-467d-95e0-eb672d1c4e34" />
 
 
 
