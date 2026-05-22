@@ -50,7 +50,10 @@
 
 # Thêm word để auto đăng bài 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a948ecba-08c2-47c7-a857-f17f63f3be2c" />
-
+# cấu hình 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8a3668f-1cba-4636-a0ec-aaf445f9e896" />
+<img width="1898" height="920" alt="image" src="https://github.com/user-attachments/assets/82558666-d0e6-4314-bd05-98c9821d03ad" />
+<img width="1920" height="1053" alt="image" src="https://github.com/user-attachments/assets/25213d0a-4cd8-4372-abaa-704ba1dd4f4b" />
 
 
 
