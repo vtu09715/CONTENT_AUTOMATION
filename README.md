@@ -41,22 +41,11 @@
 <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/bc7b9244-c57a-441a-871b-04808466837c" />
 
 # thêm gemini ai 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e8baf13-3415-44eb-9e21-ffbfd2f25bbe" />
-<img width="1899" height="943" alt="image" src="https://github.com/user-attachments/assets/773aef77-8ee2-41db-9189-4a6885b15bfa" />
-
-# test chạy 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1dbb797-a611-4065-b434-210e1de146d5" />
-
-# Thêm word để auto đăng bài 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a948ecba-08c2-47c7-a857-f17f63f3be2c" />
+<img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/78330132-f0a5-4b51-8498-b2d7cb40c54e" />
 # cấu hình 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8a3668f-1cba-4636-a0ec-aaf445f9e896" />
-<img width="1898" height="920" alt="image" src="https://github.com/user-attachments/assets/82558666-d0e6-4314-bd05-98c9821d03ad" />
-<img width="1920" height="1053" alt="image" src="https://github.com/user-attachments/assets/25213d0a-4cd8-4372-abaa-704ba1dd4f4b" />
+<img width="1920" height="977" alt="image" src="https://github.com/user-attachments/assets/f9f3c060-740d-4ed2-b2b6-444187edcb20" />
 
-# xẩy ra lỗi khi chạy vì gemini hết quota free 
-<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/0b21f534-1b06-49da-8f3a-4e97b540ddfd" />
+
 
 
 
