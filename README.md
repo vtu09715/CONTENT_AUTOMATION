@@ -84,7 +84,7 @@
 
 <img width="1242" height="2688" alt="image" src="https://github.com/user-attachments/assets/df87aff9-9115-49b7-ad99-051dd64d42c8" />
 
-# kết quả ok
+# kết quả chạy ok
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09072b4d-e097-40ba-8013-6b8a1382af76" />
 
