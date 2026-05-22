@@ -55,6 +55,8 @@
 <img width="1898" height="920" alt="image" src="https://github.com/user-attachments/assets/82558666-d0e6-4314-bd05-98c9821d03ad" />
 <img width="1920" height="1053" alt="image" src="https://github.com/user-attachments/assets/25213d0a-4cd8-4372-abaa-704ba1dd4f4b" />
 
+# xẩy ra lỗi khi chạy vì gemini hết quota free 
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/0b21f534-1b06-49da-8f3a-4e97b540ddfd" />
 
 
 
