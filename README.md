@@ -45,7 +45,14 @@
 # cấu hình 
 <img width="1920" height="977" alt="image" src="https://github.com/user-attachments/assets/f9f3c060-740d-4ed2-b2b6-444187edcb20" />
 
+# thêm code in javascript
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/4cf08609-4c2c-4e40-ae19-e31d6df347d5" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/08bf8192-d958-4bb3-92c3-25aa3dc76d91" />
 
+# thêm word
+<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/b36da14a-1356-4e9b-9eb1-7443d08904af" />
+
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/77888445-a7c8-419f-bfb7-fc24899bcec6" />
 
 
 
