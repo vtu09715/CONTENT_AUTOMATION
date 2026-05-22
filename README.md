@@ -40,7 +40,16 @@
 
 <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/bc7b9244-c57a-441a-871b-04808466837c" />
 
+# thêm gemini ai 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e8baf13-3415-44eb-9e21-ffbfd2f25bbe" />
+<img width="1899" height="943" alt="image" src="https://github.com/user-attachments/assets/773aef77-8ee2-41db-9189-4a6885b15bfa" />
 
+# test chạy 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1dbb797-a611-4065-b434-210e1de146d5" />
+
+# Thêm word để auto đăng bài 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a948ecba-08c2-47c7-a857-f17f63f3be2c" />
 
 
 
